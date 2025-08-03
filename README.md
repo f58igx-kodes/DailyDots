@@ -1,24 +1,23 @@
 # DailyDots
 
-**DailyDots** is a minimal, clean habit tracker inspired by apps like HabitKit.  
-It helps you build daily streaks using a simple grid of progress dots.
+**DailyDots** is a minimal, clean habit tracker.  
+It helps you build daily streaks using a simple grid of progress dots — one dot at a time.
 
 
 
 ## ✨ Features
 
-- ✅ Add new habits with emoji, colors, and frequency
-- ✅ Mark daily progress by clicking dots
-- ✅ See your streak at a glance
-- ✅ Clean dark theme with colorful cards
-- ✅ Edit or remove habits easily
-- ✅ Fully responsive, works on desktop & mobile
+- ✅ Add, edit, and delete daily habits
+- 🗓️ Visualize progress with an easy grid of dots
+- 🔥 Keep your streaks alive
+- 🎨 Custom colors for each habit
+- 📱 Fully responsive and minimal design
 
 
 
 ## 📸 Preview
 
-<img src="screenshot.png" alt="DailyDots Screenshot" width="600">
+![DailyDots Screenshot](screenshots/screenshot.png)
 
 
 
