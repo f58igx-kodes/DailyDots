@@ -3,7 +3,7 @@
 **DailyDots** is a minimal, clean habit tracker.  
 It helps you build daily streaks using a simple grid of progress dots — one dot at a time.
 
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Textura-purple?style=for-the-badge)]([https://f58igx-kodes.github.io/Textura/](https://f58igx-kodes.github.io/DailyDots/))
 
 ## ✨ Features
 
